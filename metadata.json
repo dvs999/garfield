@@ -1,0 +1,11 @@
+{
+    "description": "A viewer for today's Garfield comic", 
+    "fade-delay": 0.3, 
+    "name": "Garfield Comics Viewer", 
+    "delay": 5, 
+    "last-edited": "1359601564", 
+    "directory": "~/Pictures/garfield", 
+    "quality": 2, 
+    "minimum-decoration": 1, 
+    "uuid": "garfield@dvs"
+}
